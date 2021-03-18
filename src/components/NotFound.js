@@ -30,7 +30,6 @@ const NotfoundIcon = styled.span`
 `;
 
 const NotFoundText = styled.span`
-  color: orange;
   font-size: 17px;
   text-align: center;
 `;
